@@ -15,7 +15,7 @@ public class DockerApplication {
 	}
 	@GetMapping("/wellcome")
 	private String fun() {
-		return "Docker implement";
+		return "Docker imple";
 		
 
 	}
