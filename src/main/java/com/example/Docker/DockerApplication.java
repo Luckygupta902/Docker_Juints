@@ -15,6 +15,7 @@ public class DockerApplication {
 		SpringApplication.run(DockerApplication.class, args);
 		System.out.println("lucky is good");
 		int a=5;
+		int k=8;
 		//System.out.print(a);
 		for(int i=0;i<5;i++) {
 			System.out.print(a);	
