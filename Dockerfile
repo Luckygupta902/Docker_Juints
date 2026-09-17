@@ -1,6 +1,6 @@
 # define base docker image
 # Use OpenJDK 8 as the base image
-FROM openjdk:18
+FROM eclipse-temurin:17-jdk
 
 # Set the maintainer label
 LABEL maintainer="javaguides.net"
